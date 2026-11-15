@@ -1,2 +1,0 @@
-/parent-app/*  /parent-app/:splat  200
-/*             /index.html         200
